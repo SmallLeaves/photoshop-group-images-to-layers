@@ -7,7 +7,7 @@ var inputFolder = Folder.selectDialog ("Specify input folder");
 var outputFolder = Folder.selectDialog ("Specify output folder");
 //var outputFolder = new Folder("l:\\output");
 
-var prefixSizeStr = prompt('Specify photo prefix length. Example: if your original files look like IMG_328484.jpg, the prefix is IMG_328484 which is 10 characters. In this case you\'ll have to enter 10 below.', '', 'Photo prefix length');
+var prefixSizeStr = prompt('Specify photo prefix length. Example: if your original files look like IMG_328484_1.jpg, IMG_328484_2.jpg ... the prefix is IMG_328484 which is 10 characters. In this case you\'ll have to enter 10 below.', '', 'Photo prefix length');
 
 
 
