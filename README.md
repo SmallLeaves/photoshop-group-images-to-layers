@@ -1,6 +1,7 @@
 photoshop-group-images-to-layers
 ================================
-Mass groups folder photos into layered images. You can use it for example if you have the same shot with different exposures and want to save them as layers in one single image for further processes. This process can be applied automatically for all images in a folder.
+Process images in folder and groups them into layers based on file name.
+You can use it if you have the same shot with different exposures and want to save them as layers in one single image for further processes. This process can be applied automatically for all images in a folder.
 I have tested it with Photoshop CS6. Let me know if it works with other versions.
 
 ## Installation
